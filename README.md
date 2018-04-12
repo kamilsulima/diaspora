@@ -1,4 +1,4 @@
-# diaspora*
+# Rhizomuse based on diaspora*
 ### A privacy-aware, distributed, open source social network
 
 **master:** [![Build Status master](https://secure.travis-ci.org/diaspora/diaspora.svg?branch=master)](http://travis-ci.org/diaspora/diaspora)
